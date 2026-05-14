@@ -1,0 +1,108 @@
+# Индекс конспектов плейлиста
+
+Плейлистовая нумерация 1-26. Для каждой лекции есть конспект, чистый транскрипт, транскрипт с таймкодами и 5-минутные чанки.
+
+- 01. 04.09.2021 - https://www.youtube.com/watch?v=txN0ivBA6nc
+  - Конспект: notes/playlist01_notes.md
+  - Транскрипт: transcripts/clean/playlist01_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist01_transcript_timestamps.txt
+- 02. 18.09.2021 - https://www.youtube.com/watch?v=cDxeeVSrTk0
+  - Конспект: notes/playlist02_notes.md
+  - Транскрипт: transcripts/clean/playlist02_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist02_transcript_timestamps.txt
+- 03. 02.10.2021 - https://www.youtube.com/watch?v=Fyu9wcv4Pjw
+  - Конспект: notes/playlist03_notes.md
+  - Транскрипт: transcripts/clean/playlist03_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist03_transcript_timestamps.txt
+- 04. 09.10.2021 - https://www.youtube.com/watch?v=hEOLtbQJqBg
+  - Конспект: notes/playlist04_notes.md
+  - Транскрипт: transcripts/clean/playlist04_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist04_transcript_timestamps.txt
+- 05. 16.10.2021 - https://www.youtube.com/watch?v=2LNBnjv8gtQ
+  - Конспект: notes/playlist05_notes.md
+  - Транскрипт: transcripts/clean/playlist05_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist05_transcript_timestamps.txt
+- 06. 23.10.2021 - https://www.youtube.com/watch?v=dqxP2miOido
+  - Конспект: notes/playlist06_notes.md
+  - Транскрипт: transcripts/clean/playlist06_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist06_transcript_timestamps.txt
+- 07. 30.10.2021 - https://www.youtube.com/watch?v=kmvNd_A5yTA
+  - Конспект: notes/playlist07_notes.md
+  - Транскрипт: transcripts/clean/playlist07_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist07_transcript_timestamps.txt
+- 08. 06.11.2021 - https://www.youtube.com/watch?v=l7EWC9VdLt0
+  - Конспект: notes/playlist08_notes.md
+  - Транскрипт: transcripts/clean/playlist08_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist08_transcript_timestamps.txt
+- 09. 13.11.2021 - https://www.youtube.com/watch?v=L-lL3iPOk14
+  - Конспект: notes/playlist09_notes.md
+  - Транскрипт: transcripts/clean/playlist09_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist09_transcript_timestamps.txt
+- 10. 20.11.2021 - https://www.youtube.com/watch?v=VkviYVtq0is
+  - Конспект: notes/playlist10_notes.md
+  - Транскрипт: transcripts/clean/playlist10_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist10_transcript_timestamps.txt
+- 11. 27.11.2021 - https://www.youtube.com/watch?v=ss54VqcfagM
+  - Конспект: notes/playlist11_notes.md
+  - Транскрипт: transcripts/clean/playlist11_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist11_transcript_timestamps.txt
+- 12. 04.12.2021 - https://www.youtube.com/watch?v=OH8A0yUixLU
+  - Конспект: notes/playlist12_notes.md
+  - Транскрипт: transcripts/clean/playlist12_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist12_transcript_timestamps.txt
+- 13. 11.12.2021 - https://www.youtube.com/watch?v=U6iBmxAVpxU
+  - Конспект: notes/playlist13_notes.md
+  - Транскрипт: transcripts/clean/playlist13_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist13_transcript_timestamps.txt
+- 14. 05.02.2022 - https://www.youtube.com/watch?v=Ge8xiAOJWpU
+  - Конспект: notes/playlist14_notes.md
+  - Транскрипт: transcripts/clean/playlist14_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist14_transcript_timestamps.txt
+- 15. 12.02.2022 - https://www.youtube.com/watch?v=OLVKKXs797A
+  - Конспект: notes/playlist15_notes.md
+  - Транскрипт: transcripts/clean/playlist15_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist15_transcript_timestamps.txt
+- 16. 19.02.2022 - https://www.youtube.com/watch?v=1dOM4Ww_k8M
+  - Конспект: notes/playlist16_notes.md
+  - Транскрипт: transcripts/clean/playlist16_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist16_transcript_timestamps.txt
+- 17. 05.03.2022 - https://www.youtube.com/watch?v=-of57O9KHco
+  - Конспект: notes/playlist17_notes.md
+  - Транскрипт: transcripts/clean/playlist17_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist17_transcript_timestamps.txt
+- 18. 12.03.2022 - https://www.youtube.com/watch?v=QZA4NmDt78o
+  - Конспект: notes/playlist18_notes.md
+  - Транскрипт: transcripts/clean/playlist18_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist18_transcript_timestamps.txt
+- 19. 26.03.2022 - https://www.youtube.com/watch?v=u0fDbKC1p2g
+  - Конспект: notes/playlist19_notes.md
+  - Транскрипт: transcripts/clean/playlist19_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist19_transcript_timestamps.txt
+- 20. 02.04.2022 - https://www.youtube.com/watch?v=FCUgPXMp0CQ
+  - Конспект: notes/playlist20_notes.md
+  - Транскрипт: transcripts/clean/playlist20_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist20_transcript_timestamps.txt
+- 21. 09.04.2022 - https://www.youtube.com/watch?v=AmHGkKPobEs
+  - Конспект: notes/playlist21_notes.md
+  - Транскрипт: transcripts/clean/playlist21_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist21_transcript_timestamps.txt
+- 22. 16.04.2022 - https://www.youtube.com/watch?v=gLo0MJZmEZM
+  - Конспект: notes/playlist22_notes.md
+  - Транскрипт: transcripts/clean/playlist22_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist22_transcript_timestamps.txt
+- 23. 23.04.2022 - https://www.youtube.com/watch?v=6m7RrlJPpoQ
+  - Конспект: notes/playlist23_notes.md
+  - Транскрипт: transcripts/clean/playlist23_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist23_transcript_timestamps.txt
+- 24. 30.04.2022 - https://www.youtube.com/watch?v=j2saP8gqaUw
+  - Конспект: notes/playlist24_notes.md
+  - Транскрипт: transcripts/clean/playlist24_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist24_transcript_timestamps.txt
+- 25. 07.05.2022 - https://www.youtube.com/watch?v=sKUzFgF9tlU
+  - Конспект: notes/playlist25_notes.md
+  - Транскрипт: transcripts/clean/playlist25_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist25_transcript_timestamps.txt
+- 26. 14.05.2022 - https://www.youtube.com/watch?v=jya-L-urdoA
+  - Конспект: notes/playlist26_notes.md
+  - Транскрипт: transcripts/clean/playlist26_transcript_clean.txt
+  - Таймкоды: transcripts/timestamps/playlist26_transcript_timestamps.txt
