@@ -15,6 +15,9 @@
 - `question_10_subject_crisis_first_positivism.md` - вопрос 10: предметный кризис философии XIX века и первый позитивизм.
 - `question_11_second_positivism.md` - вопрос 11: второй позитивизм, А. Пуанкаре, Э. Мах, П. Дюгем.
 - `question_12_neopositivism_vienna_wittgenstein.md` - вопрос 12: неопозитивизм, Венский кружок и роль Л. Витгенштейна.
+- `question_13_popper_falsification_third_world.md` - вопрос 13: концепция развития науки К. Поппера, принцип фальсификации и идея «третьего мира».
+- `question_14_kuhn_scientific_revolutions.md` - вопрос 14: концепция научных революций Т. Куна.
+- `question_15_lakatos_feyerabend.md` - вопрос 15: концепция роста научного знания И. Лакатоса и «эпистемологический анархизм» П. Фейерабенда.
 
 ## Дополнительно
 
