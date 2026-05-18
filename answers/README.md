@@ -4,6 +4,7 @@
 
 ## Ответы
 
+- `question_01_main_problems_modern_philosophy_science.md` - вопрос 1: основные проблемы современной философии науки и ключевые направления их решения.
 - `question_02_categories_antiquity_middle_ages.md` - вопрос 2: категории истины, мышления, идеального, причинности, законосообразности и материи.
 - `question_03_aristotle_physics_cosmology.md` - вопрос 3: методология физики и космологии Аристотеля.
 - `question_04_scientific_revolution_modernity.md` - вопрос 4: смысл и содержание научной революции Нового времени.
